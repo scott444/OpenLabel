@@ -6,7 +6,7 @@
 public enum UnwindDirection
 {
     BottomOff = 1,
-    TopIff = 2,
+    TopOff = 2,
     RightOff = 3,
     LeftOff = 4
 }
